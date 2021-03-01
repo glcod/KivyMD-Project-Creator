@@ -22,7 +22,7 @@ project_name (Base Project Files)
 - [Python](https://www.python.org/) 3.6+
 - [Kivy](https://github.com/kivy/kivy) >= 2.0.0 ([Installation](https://kivy.org/doc/stable/gettingstarted/installation.html))
 - [Plyer](https://github.com/kivy/plyer)
-- [KivyMD](https://github.com/kivymd/KivyMD) >= 0.104.2.dev0 (from master branch)
+- [KivyMD](https://github.com/kivymd/KivyMD) >= 0.104.1 
 - [SweetAlert](https://github.com/kivymd-extensions/sweetalert)
 - [kaki](https://github.com/tito/kaki) for hotreloader
 
