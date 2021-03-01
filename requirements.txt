@@ -1,4 +1,5 @@
 kivy>=1.11.1
 plyer
-kivymd_extensions.sweetalert
+pip install kivymd == 0.104.1
+pip install kivymd_extensions.sweetalert
 kaki
